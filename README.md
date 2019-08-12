@@ -8,6 +8,6 @@
 3. Capstone Report -Part 1
     - [Report Part 1](Capstone-w4-Report.pdf)
 4. Capstone Project: A new restaurant in Vancouver, BC
-    - [Final Presentation](Capstone-FinalPresentation.pdf)
     - [Full Report](Capstone-FinalReport.pdf)
+    - [Final Presentation](Capstone-FinalPresentation.pdf)
     - [Final Jupyter Notebook](Capstone-Final-Notebook.ipynb)
